@@ -1,0 +1,14 @@
+C:\NSTU\2curse\Practise1\Norton\bin\Debug\net6.0\Norton.exe
+C:\NSTU\2curse\Practise1\Norton\bin\Debug\net6.0\Norton.deps.json
+C:\NSTU\2curse\Practise1\Norton\bin\Debug\net6.0\Norton.runtimeconfig.json
+C:\NSTU\2curse\Practise1\Norton\bin\Debug\net6.0\Norton.dll
+C:\NSTU\2curse\Practise1\Norton\bin\Debug\net6.0\Norton.pdb
+C:\NSTU\2curse\Practise1\Norton\obj\Debug\net6.0\Norton.GeneratedMSBuildEditorConfig.editorconfig
+C:\NSTU\2curse\Practise1\Norton\obj\Debug\net6.0\Norton.AssemblyInfoInputs.cache
+C:\NSTU\2curse\Practise1\Norton\obj\Debug\net6.0\Norton.AssemblyInfo.cs
+C:\NSTU\2curse\Practise1\Norton\obj\Debug\net6.0\Norton.csproj.CoreCompileInputs.cache
+C:\NSTU\2curse\Practise1\Norton\obj\Debug\net6.0\Norton.dll
+C:\NSTU\2curse\Practise1\Norton\obj\Debug\net6.0\refint\Norton.dll
+C:\NSTU\2curse\Practise1\Norton\obj\Debug\net6.0\Norton.pdb
+C:\NSTU\2curse\Practise1\Norton\obj\Debug\net6.0\Norton.genruntimeconfig.cache
+C:\NSTU\2curse\Practise1\Norton\obj\Debug\net6.0\ref\Norton.dll
